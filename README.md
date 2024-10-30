@@ -17,7 +17,7 @@ A personal portfolio template for showcasing skills, projects, and experiences, 
 Get the code:
 
 ```bash
-git clone https://github.com/yourusername/personal-portfolio.git
+git clone https://github.com/vikaas-0304/Personal-Portfolio.git
 ```
 
 Install required dependencies:
