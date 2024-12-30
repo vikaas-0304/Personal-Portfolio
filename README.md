@@ -1,17 +1,5 @@
 # Personal Portfolio
 
-### Description
-
-A personal portfolio template for showcasing skills, projects, and experiences, built with React.
-
-### Features
-
-- Fully Responsive Design
-- Multi-Page Layout
-- Smooth Navigation
-- Contact Form Integration
-- Easy Content Management
-
 ### Setup
 
 Get the code:
